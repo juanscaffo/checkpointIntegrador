@@ -1,2 +1,2 @@
 # checkpointIntegrador
-Gabriel De León --- Comida Fav. Asado.
+Gabriel De León ===> Comida Favo- Asado
